@@ -1,6 +1,6 @@
 export const data=[
     {
-        question: "From the perspective of a developer: What's one advantage of building a user interface by combining components?",
+        question:"From the perspective of a developer: What's one advantage of building a user interface by combining components?",
         option1: "Better performance",
         option2: "Small, reusable building blocks",
         option3: "More powerful features",

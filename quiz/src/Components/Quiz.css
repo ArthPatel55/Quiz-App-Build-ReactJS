@@ -2,6 +2,7 @@
   width: 640px;
   margin: auto;
   margin-top: 150px;
+  text-align: justify;
   background: white;
   color: #262626;
   display: flex;
@@ -17,6 +18,7 @@
 }
 .container h2 {
     font-size: 27px;
+    text-align: justify;
     font-weight: 500;
 }
 .container ul li{
